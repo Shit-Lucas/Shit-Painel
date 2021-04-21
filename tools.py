@@ -76,7 +76,7 @@ def chat():
     print()
     print(f'{C}[{G}i{C}] /connect chat.freenode.net')
     print(f'{C}[{G}i{C}] /nick (seu nickname)')
-    print(f'{C}[{G}i{C}] /join #Kiny')
+    print(f'{C}[{G}i{C}] /join #Shit)
     print(f'{C}[{R}i{C}] Quando for sair, digite /exit')
     pause = input(f'{C}{Y}APERTE ENTER PARA IR PRO CHAT{C}')
     os.system("irssi")
